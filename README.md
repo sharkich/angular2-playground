@@ -1,5 +1,20 @@
 # Angular2Playground
 
+Material Design Components:
+https://github.com/angular/material2
+https://www.npmjs.com/~angular2-material
+
+Design examples:
+http://pol-demo1.gogetthemes.com/bar/ (top menu, back-ground)
+http://demo.oxygenna.com/fab-html (colors)
+
+https://design.google.com/icons/ (icons)
+
+# TypeScript
+`npm install -g typescript@2.0`
+
+# CLI
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.15.
 
 ## Development server
