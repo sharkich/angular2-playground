@@ -1,3 +1,11 @@
 <h1>
   {{title}}
 </h1>
+
+({{ count }})
+<hr>
+<app-counter
+  start="12"
+  (result)="onChange($event)"
+></app-counter>
+<hr>

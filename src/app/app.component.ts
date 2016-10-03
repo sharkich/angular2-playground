@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app works!';
+  count: number;
+
+  onChange(data: number) {
+    console.log('onChange', data);
+    this.count = data;
+  }
 }
